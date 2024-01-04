@@ -1,0 +1,7 @@
+<?php
+$to = "";
+$smtp_host = ""; 
+$smtp_username = "";
+$smtp_password = "";
+$smtp_port = 465;
+?>
