@@ -1,3 +1,9 @@
+<?php
+/**
+ * Author: Kwaye Gabriel  
+ * Description: Contact page
+ */
+?>
 <section id="contact" class="contact">
     <div class="container"> 
         <div class="section-title text-center">
@@ -42,4 +48,4 @@
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section> 

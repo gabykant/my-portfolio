@@ -1,15 +1,16 @@
+<?php
+/**
+ * Author: Kwaye Gabriel  
+ * Description: Project page
+ */
+?>
 <section id="project" class="project">
     <div class="container"> 
         <div class="section-title text-center">
             <h3>My Projects</h3>
         </div>
         <div class="row">
-            <div class="col-lg-12 d-flex justify-content-center">
-                <!-- <ul id="project-flters">
-                    <li data-filter="*" class="filter-active">All</li>
-                    <li data-filter=".filter-app">Mobile App (Android)</li> 
-                    <li data-filter=".filter-web">Web App</li>
-                </ul> -->
+            <div class="col-lg-12 d-flex justify-content-center"> 
                 <ul id="project-flters" class="project-flters">
                     <li data-filter="all" class="fltr-controls filter-active">All</li>
                     <li data-filter="1" class="fltr-controls">Mobile App (Android)</li> 
@@ -38,4 +39,4 @@
             </div>  -->
         </div>
     </div>
-</section><!-- End Projects Section -->
+</section> 

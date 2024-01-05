@@ -1,3 +1,9 @@
+<?php
+/**
+ * Author: Kwaye Gabriel  
+ * Description: About Me page
+ */
+?>
 <section id="aboutme" class="aboutme">
     <div class="container">
 
@@ -21,4 +27,4 @@
         </div>
 
     </div>
-</section><!-- End About Section -->
+</section> 

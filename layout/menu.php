@@ -1,3 +1,9 @@
+<?php
+/**
+ * Author: Kwaye Gabriel  
+ * Description: Top menu layout
+ */
+?>
 <nav id="navbar" class="navbar">
     <ul>
         <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
