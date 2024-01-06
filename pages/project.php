@@ -19,24 +19,69 @@
             </div>
         </div>
         <div class="row project-container">
-            <div class="filtr-item" data-category="1, 2" data-sort="valueq">
-                <!-- <img src="img/sample1.jpg" alt="sample" /> -->fsddfdf
+            <div class="filtr-item" data-category="3" data-sort="valueq">
+                <div class="card mb-3" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="assets/images/miniatures/javamailcron.jpg" class="img-fluid rounded-start" alt="Java Mail Cron">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Java sending mails un a cron task</h5>
+                                <p class="card-text">JavaMail app cron is a simple Java code that runs under a cron job and delivers email to a list emails addresses picked from a MySQL database. In this project we highligth some approaches:</p>
+                                <p class="card-text"><span class="badge text-bg-primary">Java</span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="filtr-item" data-category="1" data-sort="value2">
-                <!-- <img src="img/sample2.jpg" alt="sample" /> -->wewwe
+            <!-- <div class="filtr-item" data-category="1" data-sort="value2">
+                <div class="card mb-3" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="..." class="img-fluid rounded-start" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title 2</h5>
+                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="filtr-item" data-category="2" data-sort="value3">
-                <!-- <img src="img/sample3.jpg" alt="sample" /> -->nnnn
-            </div>
-            <!-- <div class="col-lg-4 col-md-6 project-item filter-app">
-                <img src="assets/img/project/project-1.jpg" class="img-fluid" alt="">
-                <div class="project-info">
-                <h4>App 1</h4>
-                <p>App</p>
-                <a href="assets/img/project/project-1.jpg" data-gallery="projectGallery" class="project-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="project-details.html" data-gallery="projectDetailsGallery" data-glightbox="type: external" class="project-details-lightbox details-link" title="project Details"><i class="bx bx-link"></i></a>
+                <div class="card mb-3" style="max-width: 540px;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="..." class="img-fluid rounded-start" alt="...">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Card title 3</h5>
+                                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-            </div>  -->
+            </div> -->
+            
+            <!-- <div class="card mb-3" style="max-width: 540px;">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="..." class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
         </div>
     </div>
 </section> 

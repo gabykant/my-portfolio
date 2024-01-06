@@ -686,3 +686,13 @@ h6 {
 .whatsapp {
   background: #fffef9;
 }
+
+.card-body {
+  padding-top: 0;
+}
+
+.project .card {
+  background-color: #fffef9;
+  padding: 5px;
+  border: 5px solid #e2e1de;
+}
