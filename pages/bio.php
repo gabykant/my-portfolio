@@ -9,6 +9,7 @@
         <img src="assets/images/avatar.png" alt="Logo" class="img-fluid"/>
         <h1>Gabriel Kwaye</h1>
         <h2>Lead Engineer at K Soft Solutions</h2>  
+        <h3>Laravel Certified Developer</h3>
         <div class="social-links text-center text-md-right pt-3 pt-md-0">
             <a href="https://github.com/gabykant" class="github" target="_blank"><i class='bx bxl-github'></i></a>
             <a href="https://www.linkedin.com/in/gabriel-kwaye-kant" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>

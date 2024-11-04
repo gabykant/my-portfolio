@@ -329,6 +329,12 @@ h6 {
   font-size: 22px;
 }
 
+#biography h3 {
+  color: #6d6262;
+  padding-top: 15px;
+  font-size: 18px;
+}
+
 #calendly .btn-get-started {
   font-family: "Raleway", sans-serif;
   font-weight: 500;

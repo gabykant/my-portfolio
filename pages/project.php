@@ -29,7 +29,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Java sending mails un a cron task</h5>
                                 <p class="card-text">JavaMail app cron is a simple Java code that runs under a cron job and delivers email to a list emails addresses picked from a MySQL database. In this project we highligth some approaches:</p>
-                                <p class="card-text"><span class="badge text-bg-primary">Java</span></p>
+                                <p class="card-text"><span class="badge text-bg-primary">Java</span><span class="badge text-bg-primary">MySQL</span><span class="badge text-bg-primary">Maven</span></p>
                             </div>
                         </div>
                     </div>
